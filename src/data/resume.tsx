@@ -130,7 +130,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "https://portfolio-react-js-xi.vercel.app/lading-page.png",
       video:
         "",
     },
