@@ -57,7 +57,7 @@ export const DATA = {
       title: "Fullstack developer React.JS / PHP Symfony",
       logoUrl: "/atomic.png",
       start: "Dec 2023",
-      end: "May 2015",
+      end: "May 2025",
       description:
         "Design, development, and maintenance of web applications using Symfony (back-end), React.js (front-end), and Twig. Active involvement in defining and implementing new features in close collaboration with the product team. Integration of external APIs and performance optimization to ensure a smooth user experience. Implementation of unit and functional tests to guarantee code quality and reliability. Agile teamwork, adherence to development best practices and continuous technological watch. Key skills: Symfony, React.js, Twig, APIs, teamwork, development best practices"
 
