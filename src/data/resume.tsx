@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Full Stack Web Developer | PHP & React.js | APIs, SaaS, Microservices | Docker",
   summary:
-    "Full Stack Developer with over 5 years of experience, I specialize in designing and building high-performance web applications using Symfony (4+) and React.js.I’ve successfully led a wide range of projects, including the creation of secure REST APIs, development of microservices with Node.js, database management with MySQL and MongoDB and automated deployments using Docker My background has also allowed me to develop cross-functional skills in team management, project organization and client relations.Driven by curiosity and a passion for emerging technologies, I strive to deliver robust, scalable, and user-centric solutions.",
+    "Full Stack Developer with over 5 years of experience, I specialize in designing and building high-performance web applications using Symfony (4+) and React.js. I’ve successfully led a wide range of projects, including the creation of secure REST APIs, development of microservices with Node.js, database management with MySQL and MongoDB and automated deployments using Docker. My background has also allowed me to develop cross-functional skills in team management, project organization and client relation. Driven by curiosity and a passion for emerging technologies, I strive to deliver robust, scalable, and user-centric solutions.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -23,6 +23,7 @@ export const DATA = {
     "Docker",
     "Laravel",
     "Node.JS",
+    "Cross-functional collaboration" 
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" }
@@ -103,8 +104,8 @@ export const DATA = {
       href: "https://uwaterloo.ca",
       degree: "High school",
       logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
+      start: "2015",
+      end: "2017",
     },
   ],
   projects: [
